@@ -1,6 +1,6 @@
 # ETL Data Pipeline with Python
 
-Welcome to the **ETL Data Pipeline** project! This repository demonstrates the basics of building an Extract, Transform, and Load (ETL) pipeline using Python, pandas, and SQLite. We use the "Google Play Store Apps" dataset as an example to showcase real-world data manipulation.
+Welcome to the **ETL Data Pipeline** project! This repository demonstrates the basics of building an Extract, Transform, and Load (ETL) pipeline using Python, pandas, and SQLite. The "Google Play Store Apps" dataset is used as an example to showcase real-world data manipulation.
 
 ---
 
@@ -24,12 +24,12 @@ Welcome to the **ETL Data Pipeline** project! This repository demonstrates the b
 
 1. Clone the repository:
    ```bash
-  git clone https://github.com/HasiniRajapaksha/ETL-pipelie-Google-Play-Store-Apps-.git
+   git clone https://github.com/HasiniRajapaksha/ETL-pipelie-Google-Play-Store-Apps-.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd etl-data-pipeline
+   cd ETL-pipelie-Google-Play-Store-Apps-
    ```
 
 3. Install the required dependencies:
@@ -46,5 +46,4 @@ Welcome to the **ETL Data Pipeline** project! This repository demonstrates the b
 The final SQLite database contains a `top_apps` table with key insights about the data.
 
 ---
-
 
