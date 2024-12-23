@@ -47,11 +47,4 @@ The final SQLite database contains a `top_apps` table with key insights about th
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-Happy coding! 🎉
 
