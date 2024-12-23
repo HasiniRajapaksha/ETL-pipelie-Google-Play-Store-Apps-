@@ -46,4 +46,5 @@ Welcome to the **ETL Data Pipeline** project! This repository demonstrates the b
 The final SQLite database contains a `top_apps` table with key insights about the data.
 
 ---
+![ETL](https://github.com/user-attachments/assets/76b9c737-c962-4d7c-899b-e211e293582f)
 
